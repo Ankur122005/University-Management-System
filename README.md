@@ -82,9 +82,16 @@ The system follows a direct **Client-Server (Two-Tier)** architectural pattern:
 ---
 
 ### 5. Parent Portal
-> Self-service portal for enrolled student's Parent to view course registrations, attendance, semester grades, and dues of Their Ward.
+> Dedicated interface for enrolled student's Parent to view Student Performance including their attendance, Semester grades and mark, Registered Courses and dues of Their Ward.
 
 ![Parent Portal](Images/Parent_Portal(1).png)
+![Parent Portal](Images/Parent_Portal(2).png)
+![Parent Portal](Images/Parent_Portal(3).png)
+![Parent Portal](Images/Parent_Portal(4).png)
+![Parent Portal](Images/Parent_Portal(5).png)
+![Parent Portal](Images/Parent_Portal(6).png)
+![Parent Portal](Images/Parent_Portal(7).png)
+![Parent Portal](Images/Parent_Portal(8).png)
 
 > ---
 
