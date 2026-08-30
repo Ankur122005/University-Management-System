@@ -72,9 +72,21 @@ The system follows a direct **Client-Server (Two-Tier)** architectural pattern:
 ### 4. Employee / Faculty Portal
 > Dedicated interface for faculty and staff to update marks, manage class attendance, and view departmental circulars.
 
-![Employee Portal](Images/employee.png)
+![Employee Portal](Images/Employee_Portal(4).png)
+![Employee Portal](Images/Employee_Portal(3).png)
+![Employee Portal](Images/Employee_Portal(1).png)
+![Employee Portal](Images/Employee_Portal(2).png)
+![Employee Portal](Images/Employee_Portal(5).png)
+![Employee Portal](Images/Employee_Portal(6).png)
 
 ---
+
+### 5. Parent Portal
+> Self-service portal for enrolled student's Parent to view course registrations, attendance, semester grades, and dues of Their Ward.
+
+![Parent Portal](Images/Parent_Portal(1).png)
+
+> ---
 
 ## ✨ Key Features & Portals
 
