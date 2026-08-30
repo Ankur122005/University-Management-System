@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Editing the README file and few Minor changes">
+    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Changing the Version from SNAPSHOT to Completed Version 1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_Files/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Files/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,61 +49,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000596165491642" />
-      <entry key="MS500" value="1.2063523902842237" />
-      <entry key="S2" value="2.6375458369949496" />
-      <entry key="S5" value="4.351491394091182" />
-      <entry key="S10" value="6.319989230604094" />
-      <entry key="S30" value="10.522814504380928" />
-      <entry key="S60" value="12.965281123683452" />
-      <entry key="M2" value="14.715192947781054" />
-      <entry key="M5" value="16.99027140076368" />
-      <entry key="M10" value="23.97314855480135" />
-      <entry key="M15" value="32.56347982710251" />
-      <entry key="M30" value="53.554709090580694" />
-      <entry key="H1" value="76.39570076844927" />
-      <entry key="H2" value="94.89140726553192" />
-      <entry key="H4" value="107.0815791477802" />
-      <entry key="D1" value="119.29201523681921" />
-      <entry key="W1" value="121.60723322773136" />
+      <entry key="MS100" value="1.0000016150389326" />
+      <entry key="MS500" value="1.073616142308723" />
+      <entry key="S2" value="2.1488786327988314" />
+      <entry key="S5" value="4.673910751412482" />
+      <entry key="S10" value="8.112252293597784" />
+      <entry key="S30" value="14.109242448359565" />
+      <entry key="S60" value="16.69413057664995" />
+      <entry key="M2" value="18.423756955274484" />
+      <entry key="M5" value="22.198464395788168" />
+      <entry key="M10" value="29.583063373639998" />
+      <entry key="M15" value="37.87459548325119" />
+      <entry key="M30" value="59.82750599134893" />
+      <entry key="H1" value="85.92164993758078" />
+      <entry key="H2" value="108.15723412339963" />
+      <entry key="H4" value="123.21467652880193" />
+      <entry key="D1" value="138.56337875481594" />
+      <entry key="W1" value="141.5008524508294" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.69064912776883E-238" />
-      <entry key="S30" value="1.1814332573473189E-79" />
-      <entry key="S60" value="4.832612417486269E-40" />
-      <entry key="M2" value="3.1043095481266777E-20" />
-      <entry key="M5" value="2.3836899340395864E-8" />
-      <entry key="M10" value="2.1833037246293005E-4" />
-      <entry key="M15" value="0.004568220434236031" />
-      <entry key="M30" value="0.09558410222327528" />
-      <entry key="H1" value="0.43722714383864736" />
-      <entry key="H2" value="0.93512222100322" />
-      <entry key="H4" value="1.3675686663992048" />
-      <entry key="D1" value="1.877225797476049" />
-      <entry key="W1" value="1.9819810513011784" />
+      <entry key="S10" value="5.80917692771967E-261" />
+      <entry key="S30" value="2.733399290794341E-87" />
+      <entry key="S60" value="7.350703548524394E-44" />
+      <entry key="M2" value="3.8285867501383013E-22" />
+      <entry key="M5" value="4.108460832661557E-9" />
+      <entry key="M10" value="9.064186858183973E-5" />
+      <entry key="M15" value="0.002542280784825181" />
+      <entry key="M30" value="0.07130564239453414" />
+      <entry key="H1" value="0.37763847189252897" />
+      <entry key="H2" value="0.8690663509627673" />
+      <entry key="H4" value="1.318382472733153" />
+      <entry key="D1" value="1.8658005938112558" />
+      <entry key="W1" value="1.9802532869859997" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.946110665645548" />
-      <entry key="MS500" value="1.1911217333212654" />
-      <entry key="S2" value="2.6271159505264046" />
-      <entry key="S5" value="4.327154918126888" />
-      <entry key="S10" value="6.278129612093807" />
-      <entry key="S30" value="10.487914678708988" />
-      <entry key="S60" value="12.943148595190996" />
-      <entry key="M2" value="14.70271133693853" />
-      <entry key="M5" value="16.984885895482563" />
-      <entry key="M10" value="23.97055384129609" />
-      <entry key="M15" value="32.56608726759163" />
-      <entry key="M30" value="53.649011534405666" />
-      <entry key="H1" value="76.83183915274559" />
-      <entry key="H2" value="95.82568120976366" />
-      <entry key="H4" value="108.44859566126229" />
-      <entry key="D1" value="121.16912430710393" />
-      <entry key="W1" value="123.58919688473503" />
+      <entry key="MS100" value="0.9526395580687123" />
+      <entry key="MS500" value="1.063444580198702" />
+      <entry key="S2" value="2.144014348015459" />
+      <entry key="S5" value="4.669256059815363" />
+      <entry key="S10" value="8.108024966765303" />
+      <entry key="S30" value="14.10675830277737" />
+      <entry key="S60" value="16.692658439775013" />
+      <entry key="M2" value="18.422801140745282" />
+      <entry key="M5" value="22.197197592467404" />
+      <entry key="M10" value="29.58181375093183" />
+      <entry key="M15" value="37.87593092199842" />
+      <entry key="M30" value="59.89779734321891" />
+      <entry key="H1" value="86.29831885784704" />
+      <entry key="H2" value="109.02549750812739" />
+      <entry key="H4" value="124.53251939649451" />
+      <entry key="D1" value="140.42906211259316" />
+      <entry key="W1" value="143.48108818448077" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -102,36 +115,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdminFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParentFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VTOPFrame.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ANKUR MISHRA/Documents/University Management System/src/main/java/in/mak/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdminFrame.executor": "Run",
+    "Application.EmployeeFrame.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ParentFrame.executor": "Run",
+    "Application.VTOPFrame.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "v2-development",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ANKUR MISHRA/Documents/University Management System/src/main/java/in/mak/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ANKUR MISHRA\Documents\University Management System\Project_Files" />
@@ -165,7 +180,8 @@
     <MESSAGE value="Adding Images" />
     <MESSAGE value="Adding README file and txt file for SQL Query" />
     <MESSAGE value="Editing the README file and few Minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Editing the README file and few Minor changes" />
+    <MESSAGE value="Changing the Version from SNAPSHOT to Completed Version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing the Version from SNAPSHOT to Completed Version 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
