@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Adding README file and txt file for SQL Query">
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (5).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (6).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (7).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Parent_Portal (8).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Editing the README file and few Minor changes">
+      <change beforePath="$PROJECT_DIR$/Project_Files/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Files/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,61 +36,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000001262242004" />
-      <entry key="S2" value="1.0382605074957403" />
-      <entry key="S5" value="1.4393835660919265" />
-      <entry key="S10" value="2.3704665285630924" />
-      <entry key="S30" value="5.9846881951377355" />
-      <entry key="S60" value="9.72641293191192" />
-      <entry key="M2" value="14.134227707865865" />
-      <entry key="M5" value="23.814980979570723" />
-      <entry key="M10" value="36.80982494515536" />
-      <entry key="M15" value="46.00481609848189" />
-      <entry key="M30" value="62.45974219960544" />
-      <entry key="H1" value="77.56957049631326" />
-      <entry key="H2" value="88.99849675381277" />
-      <entry key="H4" value="96.2866739789053" />
-      <entry key="D1" value="103.43353061536907" />
-      <entry key="W1" value="104.77319392444812" />
+      <entry key="MS100" value="1.0000596165491642" />
+      <entry key="MS500" value="1.2063523902842237" />
+      <entry key="S2" value="2.6375458369949496" />
+      <entry key="S5" value="4.351491394091182" />
+      <entry key="S10" value="6.319989230604094" />
+      <entry key="S30" value="10.522814504380928" />
+      <entry key="S60" value="12.965281123683452" />
+      <entry key="M2" value="14.715192947781054" />
+      <entry key="M5" value="16.99027140076368" />
+      <entry key="M10" value="23.97314855480135" />
+      <entry key="M15" value="32.56347982710251" />
+      <entry key="M30" value="53.554709090580694" />
+      <entry key="H1" value="76.39570076844927" />
+      <entry key="H2" value="94.89140726553192" />
+      <entry key="H4" value="107.0815791477802" />
+      <entry key="D1" value="119.29201523681921" />
+      <entry key="W1" value="121.60723322773136" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.5085971467377394E-196" />
-      <entry key="S30" value="8.094486507014436E-66" />
-      <entry key="S60" value="4.000110800544993E-33" />
-      <entry key="M2" value="8.931204806442307E-17" />
-      <entry key="M5" value="5.765377828829144E-7" />
-      <entry key="M10" value="0.001073749961407525" />
-      <entry key="M15" value="0.013211122589239878" />
-      <entry key="M30" value="0.1625481385937136" />
-      <entry key="H1" value="0.5701712087531315" />
-      <entry key="H2" value="1.067867725554841" />
-      <entry key="H4" value="1.4614154138407893" />
-      <entry key="D1" value="1.8981066211201196" />
-      <entry key="W1" value="1.9851155746180713" />
+      <entry key="S10" value="4.69064912776883E-238" />
+      <entry key="S30" value="1.1814332573473189E-79" />
+      <entry key="S60" value="4.832612417486269E-40" />
+      <entry key="M2" value="3.1043095481266777E-20" />
+      <entry key="M5" value="2.3836899340395864E-8" />
+      <entry key="M10" value="2.1833037246293005E-4" />
+      <entry key="M15" value="0.004568220434236031" />
+      <entry key="M30" value="0.09558410222327528" />
+      <entry key="H1" value="0.43722714383864736" />
+      <entry key="H2" value="0.93512222100322" />
+      <entry key="H4" value="1.3675686663992048" />
+      <entry key="D1" value="1.877225797476049" />
+      <entry key="W1" value="1.9819810513011784" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193252643" />
-      <entry key="MS500" value="0.9917179807906646" />
-      <entry key="S2" value="1.0360904350625162" />
-      <entry key="S5" value="1.438118778855252" />
-      <entry key="S10" value="2.369345313770023" />
-      <entry key="S30" value="5.983658153459322" />
-      <entry key="S60" value="9.725573723515542" />
-      <entry key="M2" value="14.13362477697537" />
-      <entry key="M5" value="23.814589572206042" />
-      <entry key="M10" value="36.810592772489244" />
-      <entry key="M15" value="46.0177035559948" />
-      <entry key="M30" value="62.62169568540988" />
-      <entry key="H1" value="78.13893205410649" />
-      <entry key="H2" value="90.06566348486754" />
-      <entry key="H4" value="97.74762473142147" />
-      <entry key="D1" value="105.33153900028302" />
-      <entry key="W1" value="106.75829487804127" />
+      <entry key="MS100" value="0.946110665645548" />
+      <entry key="MS500" value="1.1911217333212654" />
+      <entry key="S2" value="2.6271159505264046" />
+      <entry key="S5" value="4.327154918126888" />
+      <entry key="S10" value="6.278129612093807" />
+      <entry key="S30" value="10.487914678708988" />
+      <entry key="S60" value="12.943148595190996" />
+      <entry key="M2" value="14.70271133693853" />
+      <entry key="M5" value="16.984885895482563" />
+      <entry key="M10" value="23.97055384129609" />
+      <entry key="M15" value="32.56608726759163" />
+      <entry key="M30" value="53.649011534405666" />
+      <entry key="H1" value="76.83183915274559" />
+      <entry key="H2" value="95.82568120976366" />
+      <entry key="H4" value="108.44859566126229" />
+      <entry key="D1" value="121.16912430710393" />
+      <entry key="W1" value="123.58919688473503" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -172,7 +164,8 @@
     <MESSAGE value="Minor Error Correction" />
     <MESSAGE value="Adding Images" />
     <MESSAGE value="Adding README file and txt file for SQL Query" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding README file and txt file for SQL Query" />
+    <MESSAGE value="Editing the README file and few Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editing the README file and few Minor changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
