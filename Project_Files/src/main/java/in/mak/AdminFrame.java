@@ -15,7 +15,7 @@ import java.util.Random;
 public class AdminFrame extends JFrame {
 
     // --- DATABASE CONFIGURATION ---
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/UTOP_db?useSSL=false&allowPublicKeyRetrieval=true";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/vtop_db?useSSL=false&allowPublicKeyRetrieval=true";
     private static final String DB_USER = "root";     // Adjust if needed
     private static final String DB_PASS = "admin321";   // Adjust to your MySQL password
 
