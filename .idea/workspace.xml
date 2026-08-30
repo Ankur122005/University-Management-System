@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Minor Error Correction" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ankur122005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ankur122005/University-Management-System.git&quot;,
+    &quot;accountId&quot;: &quot;ddd8af84-a0ab-4315-94d1-a986e084407e&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000001839457" />
+      <entry key="MS500" value="1.0112963701576814" />
+      <entry key="S2" value="1.3384731339756204" />
+      <entry key="S5" value="1.811772388202356" />
+      <entry key="S10" value="2.2188893078132486" />
+      <entry key="S30" value="3.0827962808392453" />
+      <entry key="S60" value="4.777560517492045" />
+      <entry key="M2" value="7.869153262754878" />
+      <entry key="M5" value="13.451278685325741" />
+      <entry key="M10" value="18.370283043941317" />
+      <entry key="M15" value="21.778531696615875" />
+      <entry key="M30" value="29.00885948910422" />
+      <entry key="H1" value="36.79910918061629" />
+      <entry key="H2" value="43.05860520566256" />
+      <entry key="H4" value="47.119772980573465" />
+      <entry key="D1" value="51.12197451809073" />
+      <entry key="W1" value="51.87287119483101" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.9E-324" />
+      <entry key="S10" value="2.374711702351108E-162" />
+      <entry key="S30" value="2.0286253130012452E-54" />
+      <entry key="S60" value="2.0025265813663986E-27" />
+      <entry key="M2" value="6.319215742410243E-14" />
+      <entry key="M5" value="7.956627515981482E-6" />
+      <entry key="M10" value="0.003988905870909488" />
+      <entry key="M15" value="0.03168887395445997" />
+      <entry key="M30" value="0.2517477181910678" />
+      <entry key="H1" value="0.709572955637103" />
+      <entry key="H2" value="1.1912786171429892" />
+      <entry key="H4" value="1.543553285189441" />
+      <entry key="D1" value="1.9154842906725633" />
+      <entry key="W1" value="1.9877017676260984" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9592641194992877" />
+      <entry key="MS500" value="1.0028885123179867" />
+      <entry key="S2" value="1.3354630131951726" />
+      <entry key="S5" value="1.810065140689596" />
+      <entry key="S10" value="2.217826857206168" />
+      <entry key="S30" value="3.082296605633974" />
+      <entry key="S60" value="4.777164706468346" />
+      <entry key="M2" value="7.8688179249869785" />
+      <entry key="M5" value="13.451048402001755" />
+      <entry key="M10" value="18.374065271461742" />
+      <entry key="M15" value="21.809898386275012" />
+      <entry key="M30" value="29.259855689530475" />
+      <entry key="H1" value="37.50774826756921" />
+      <entry key="H2" value="44.24913627519276" />
+      <entry key="H4" value="48.66285215399221" />
+      <entry key="D1" value="53.037362375467275" />
+      <entry key="W1" value="53.86055870661961" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Icc7HB3FNp4DjOB2XhFjZTZb30" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdminFrame.executor": "Run",
+    "Application.EmployeeFrame.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ParentFrame.executor": "Run",
+    "Application.VTOPFrame.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ANKUR MISHRA/Documents/University Management System/src/main/java/in/mak/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANKUR MISHRA\Documents\University Management System\Project_Files" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="" />
+      <created>1788067130542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788067130542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All File are Updated" />
+    <MESSAGE value="Restructuring the files" />
+    <MESSAGE value="Minor Error Correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor Error Correction" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
