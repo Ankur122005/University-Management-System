@@ -1,0 +1,140 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8104cfa3-2dc5-4a2c-9006-b131465af424\" name=\"Changes\" comment=\"Changing the Version to 2 from Completed Version 1\">\r\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Ankur122005&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Ankur122005/University-Management-System.git&quot;,\r\n    &quot;accountId&quot;: &quot;ddd8af84-a0ab-4315-94d1-a986e084407e&quot;\r\n  }\r\n}</component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.0000000000000222\" />\r\n      <entry key=\"MS500\" value=\"1.0018612423925297\" />\r\n      <entry key=\"S2\" value=\"1.2506541698001945\" />\r\n      <entry key=\"S5\" value=\"1.871598678308163\" />\r\n      <entry key=\"S10\" value=\"2.531511241317969\" />\r\n      <entry key=\"S30\" value=\"6.314539701768332\" />\r\n      <entry key=\"S60\" value=\"14.157843244796414\" />\r\n      <entry key=\"M2\" value=\"24.040317538703718\" />\r\n      <entry key=\"M5\" value=\"36.07425406715635\" />\r\n      <entry key=\"M10\" value=\"46.83419003462356\" />\r\n      <entry key=\"M15\" value=\"56.27165578365272\" />\r\n      <entry key=\"M30\" value=\"79.54322655702951\" />\r\n      <entry key=\"H1\" value=\"106.70069787514453\" />\r\n      <entry key=\"H2\" value=\"129.80034419138258\" />\r\n      <entry key=\"H4\" value=\"145.45276797469586\" />\r\n      <entry key=\"D1\" value=\"161.42220756824292\" />\r\n      <entry key=\"W1\" value=\"164.48029715529015\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"0.0\" />\r\n      <entry key=\"MS500\" value=\"0.0\" />\r\n      <entry key=\"S2\" value=\"0.0\" />\r\n      <entry key=\"S5\" value=\"0.0\" />\r\n      <entry key=\"S10\" value=\"2.3114818825834843E-264\" />\r\n      <entry key=\"S30\" value=\"2.0104581663573098E-88\" />\r\n      <entry key=\"S60\" value=\"1.9935397047934962E-44\" />\r\n      <entry key=\"M2\" value=\"1.9938224550342828E-22\" />\r\n      <entry key=\"M5\" value=\"3.1647422672938145E-9\" />\r\n      <entry key=\"M10\" value=\"7.955334551926846E-5\" />\r\n      <entry key=\"M15\" value=\"0.002330468553418024\" />\r\n      <entry key=\"M30\" value=\"0.06827060678657668\" />\r\n      <entry key=\"H1\" value=\"0.36951422735004275\" />\r\n      <entry key=\"H2\" value=\"0.859667288350164\" />\r\n      <entry key=\"H4\" value=\"1.3112338552109428\" />\r\n      <entry key=\"D1\" value=\"1.8641106278460278\" />\r\n      <entry key=\"W1\" value=\"1.9799969542449962\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"0.9726549474123072\" />\r\n      <entry key=\"MS500\" value=\"0.9963211187092542\" />\r\n      <entry key=\"S2\" value=\"1.248921080334856\" />\r\n      <entry key=\"S5\" value=\"1.870545528276983\" />\r\n      <entry key=\"S10\" value=\"2.5307692505222708\" />\r\n      <entry key=\"S30\" value=\"6.313744386199597\" />\r\n      <entry key=\"S60\" value=\"14.156851122897583\" />\r\n      <entry key=\"M2\" value=\"24.0393683765203\" />\r\n      <entry key=\"M5\" value=\"36.073040153132354\" />\r\n      <entry key=\"M10\" value=\"46.83296227308402\" />\r\n      <entry key=\"M15\" value=\"56.27278975460485\" />\r\n      <entry key=\"M30\" value=\"79.61047945525243\" />\r\n      <entry key=\"H1\" value=\"107.0692397314524\" />\r\n      <entry key=\"H2\" value=\"130.65920526182424\" />\r\n      <entry key=\"H4\" value=\"146.76345915839005\" />\r\n      <entry key=\"D1\" value=\"163.2862000641086\" />\r\n      <entry key=\"W1\" value=\"166.46027641522713\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3Icc7HB3FNp4DjOB2XhFjZTZb30\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.AdminFrame.executor\": \"Run\",\r\n    \"Application.EmployeeFrame.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.ParentFrame.executor\": \"Run\",\r\n    \"Application.VTOPFrame.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"v2-development\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.jshint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.jshint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/ANKUR MISHRA/Documents/University Management System/src/main/java/in/mak/Main.java\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\r\n    \"to.speed.mode.migration.done\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\ANKUR MISHRA\\Documents\\University Management System\\Project_Files\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8104cfa3-2dc5-4a2c-9006-b131465af424\" name=\"Changes\" comment=\"\" />\r\n      <created>1788067130542</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1788067130542</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"All File are Updated\" />\r\n    <MESSAGE value=\"Restructuring the files\" />\r\n    <MESSAGE value=\"Minor Error Correction\" />\r\n    <MESSAGE value=\"Adding Images\" />\r\n    <MESSAGE value=\"Adding README file and txt file for SQL Query\" />\r\n    <MESSAGE value=\"Editing the README file and few Minor changes\" />\r\n    <MESSAGE value=\"Changing the Version from SNAPSHOT to Completed Version 1\" />\r\n    <MESSAGE value=\"Changing the Version to 2 from Completed Version 1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Changing the Version to 2 from Completed Version 1\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c9985867b197e52e699d9a2e9aec3d49933f5b6a)
++++ b/.idea/workspace.xml	(date 1788096315655)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Changing the Version to 2 from Completed Version 1">
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-    </list>
++    <list default="true" id="8104cfa3-2dc5-4a2c-9006-b131465af424" name="Changes" comment="Updating README" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -47,61 +45,61 @@
+ }</component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.0000000000000222" />
+-      <entry key="MS500" value="1.0018612423925297" />
+-      <entry key="S2" value="1.2506541698001945" />
+-      <entry key="S5" value="1.871598678308163" />
+-      <entry key="S10" value="2.531511241317969" />
+-      <entry key="S30" value="6.314539701768332" />
+-      <entry key="S60" value="14.157843244796414" />
+-      <entry key="M2" value="24.040317538703718" />
+-      <entry key="M5" value="36.07425406715635" />
+-      <entry key="M10" value="46.83419003462356" />
+-      <entry key="M15" value="56.27165578365272" />
+-      <entry key="M30" value="79.54322655702951" />
+-      <entry key="H1" value="106.70069787514453" />
+-      <entry key="H2" value="129.80034419138258" />
+-      <entry key="H4" value="145.45276797469586" />
+-      <entry key="D1" value="161.42220756824292" />
+-      <entry key="W1" value="164.48029715529015" />
++      <entry key="MS100" value="1.0" />
++      <entry key="MS500" value="1.000004238607491" />
++      <entry key="S2" value="1.0740865978443161" />
++      <entry key="S5" value="1.6483188414450096" />
++      <entry key="S10" value="2.381465017059643" />
++      <entry key="S30" value="3.3116542705854157" />
++      <entry key="S60" value="3.632714470308923" />
++      <entry key="M2" value="3.8101717702034854" />
++      <entry key="M5" value="3.924810697427069" />
++      <entry key="M10" value="4.333502756842473" />
++      <entry key="M15" value="6.21609577142766" />
++      <entry key="M30" value="19.864763802741603" />
++      <entry key="H1" value="51.66521599292953" />
++      <entry key="H2" value="90.75737494767228" />
++      <entry key="H4" value="122.91577790834472" />
++      <entry key="D1" value="160.09288265077288" />
++      <entry key="W1" value="167.69333765395052" />
+     </decayedCancelled>
+     <decayedSelected>
+       <entry key="MS100" value="0.0" />
+       <entry key="MS500" value="0.0" />
+       <entry key="S2" value="0.0" />
+       <entry key="S5" value="0.0" />
+-      <entry key="S10" value="2.3114818825834843E-264" />
+-      <entry key="S30" value="2.0104581663573098E-88" />
+-      <entry key="S60" value="1.9935397047934962E-44" />
+-      <entry key="M2" value="1.9938224550342828E-22" />
+-      <entry key="M5" value="3.1647422672938145E-9" />
+-      <entry key="M10" value="7.955334551926846E-5" />
+-      <entry key="M15" value="0.002330468553418024" />
+-      <entry key="M30" value="0.06827060678657668" />
+-      <entry key="H1" value="0.36951422735004275" />
+-      <entry key="H2" value="0.859667288350164" />
+-      <entry key="H4" value="1.3112338552109428" />
+-      <entry key="D1" value="1.8641106278460278" />
+-      <entry key="W1" value="1.9799969542449962" />
++      <entry key="S10" value="0.0" />
++      <entry key="S30" value="2.063277165694358E-130" />
++      <entry key="S60" value="2.019557186787989E-65" />
++      <entry key="M2" value="6.346029923909666E-33" />
++      <entry key="M5" value="2.002002430998732E-13" />
++      <entry key="M10" value="6.327345867378169E-7" />
++      <entry key="M15" value="9.285785873409358E-5" />
++      <entry key="M30" value="0.0136276657112017" />
++      <entry key="H1" value="0.16509161615516504" />
++      <entry key="H2" value="0.5746154893925128" />
++      <entry key="H4" value="1.0720218012710108" />
++      <entry key="D1" value="1.802570501804896" />
++      <entry key="W1" value="1.9705240853147632" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="0.9726549474123072" />
+-      <entry key="MS500" value="0.9963211187092542" />
+-      <entry key="S2" value="1.248921080334856" />
+-      <entry key="S5" value="1.870545528276983" />
+-      <entry key="S10" value="2.5307692505222708" />
+-      <entry key="S30" value="6.313744386199597" />
+-      <entry key="S60" value="14.156851122897583" />
+-      <entry key="M2" value="24.0393683765203" />
+-      <entry key="M5" value="36.073040153132354" />
+-      <entry key="M10" value="46.83296227308402" />
+-      <entry key="M15" value="56.27278975460485" />
+-      <entry key="M30" value="79.61047945525243" />
+-      <entry key="H1" value="107.0692397314524" />
+-      <entry key="H2" value="130.65920526182424" />
+-      <entry key="H4" value="146.76345915839005" />
+-      <entry key="D1" value="163.2862000641086" />
+-      <entry key="W1" value="166.46027641522713" />
++      <entry key="MS100" value="2.285924275711051E-17" />
++      <entry key="MS500" value="4.7386479335790243E-4" />
++      <entry key="S2" value="0.22100645617401157" />
++      <entry key="S5" value="1.1120116640834123" />
++      <entry key="S10" value="2.062091034073179" />
++      <entry key="S30" value="3.1911598123813527" />
++      <entry key="S60" value="3.5705134600592867" />
++      <entry key="M2" value="3.778566393177641" />
++      <entry key="M5" value="3.9120451298295285" />
++      <entry key="M10" value="4.327089505840575" />
++      <entry key="M15" value="6.211867341350854" />
++      <entry key="M30" value="19.876049199655707" />
++      <entry key="H1" value="51.82880303294436" />
++      <entry key="H2" value="91.33091633304834" />
++      <entry key="H4" value="123.98708839546217" />
++      <entry key="D1" value="161.89529430818354" />
++      <entry key="W1" value="169.66383775629993" />
+     </decayedShown>
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -180,7 +178,8 @@
+     <MESSAGE value="Editing the README file and few Minor changes" />
+     <MESSAGE value="Changing the Version from SNAPSHOT to Completed Version 1" />
+     <MESSAGE value="Changing the Version to 2 from Completed Version 1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Changing the Version to 2 from Completed Version 1" />
++    <MESSAGE value="Updating README" />
++    <option name="LAST_COMMIT_MESSAGE" value="Updating README" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
