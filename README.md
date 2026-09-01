@@ -34,6 +34,161 @@ The system follows a direct **Client-Server (Two-Tier)** architectural pattern:
 
 ---
 
+
+##  DBMS Schema
+
+The System uses the Following **Database Schema** :
+
+```
+                                    +-------------------+
+                                    | Tables_in_ums_db  |
+                                    +-------------------+
+                                    | admin_users       |
+                                    | attendance        |
+                                    | completed_courses |
+                                    | courses           |
+                                    | enrollments       |
+                                    | faculty           |
+                                    | fee_records       |
+                                    | marks             |
+                                    | parents           |
+                                    | students          |
+                                    | system_requests   |
+                                    +-------------------+
+ Admin_user                                   
++---------------+--------------+------+-----+---------+-------+
+| Field         | Type         | Null | Key | Default | Extra |
++---------------+--------------+------+-----+---------+-------+
+| admin_id      | varchar(50)  | NO   | PRI | NULL    |       |
+| password_hash | varchar(255) | NO   |     | NULL    |       |
+| full_name     | varchar(100) | NO   |     | NULL    |       |
++---------------+--------------+------+-----+---------+-------+
+
+attendance Table
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| attendance_id    | int         | NO   | PRI | NULL    | auto_increment |
+| student_reg_no   | varchar(20) | YES  | MUL | NULL    |                |
+| course_code      | varchar(15) | YES  | MUL | NULL    |                |
+| classes_attended | int         | YES  |     | 0       |                |
+| total_classes    | int         | YES  |     | 0       |                |
++------------------+-------------+------+-----+---------+----------------+
+
+completed_courses Table
++----------------+-------------+------+-----+---------+----------------+
+| Field          | Type        | Null | Key | Default | Extra          |
++----------------+-------------+------+-----+---------+----------------+
+| id             | int         | NO   | PRI | NULL    | auto_increment |
+| reg_no         | varchar(20) | NO   | MUL | NULL    |                |
+| course_code    | varchar(20) | NO   | MUL | NULL    |                |
+| semester       | varchar(20) | NO   |     | NULL    |                |
+| grade          | varchar(5)  | NO   |     | NULL    |                |
+| credits_earned | int         | NO   |     | NULL    |                |
++----------------+-------------+------+-----+---------+----------------+
+
+
+courses Table
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| course_code    | varchar(15)  | NO   | PRI | NULL    |       |
+| course_title   | varchar(100) | NO   |     | NULL    |       |
+| credits        | int          | NO   |     | NULL    |       |
+| school         | varchar(100) | YES  |     | NULL    |       |
+| faculty_emp_id | varchar(20)  | YES  | MUL | NULL    |       |
++----------------+--------------+------+-----+---------+-------+
+
+enrollments Table
++-----------------+-------------+------+-----+-------------------+-------------------+
+| Field           | Type        | Null | Key | Default           | Extra             |
++-----------------+-------------+------+-----+-------------------+-------------------+
+| enrollment_id   | int         | NO   | PRI | NULL              | auto_increment    |
+| reg_no          | varchar(20) | NO   | MUL | NULL              |                   |
+| course_code     | varchar(20) | NO   | MUL | NULL              |                   |
+| semester        | varchar(20) | YES  |     | Fall 2026         |                   |
+| slot            | varchar(10) | YES  |     | NULL              |                   |
+| enrollment_date | timestamp   | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++-----------------+-------------+------+-----+-------------------+-------------------+
+
+faculty Table
++---------------+--------------+------+-----+---------+-------+
+| Field         | Type         | Null | Key | Default | Extra |
++---------------+--------------+------+-----+---------+-------+
+| emp_id        | varchar(20)  | NO   | PRI | NULL    |       |
+| full_name     | varchar(100) | NO   |     | NULL    |       |
+| password_hash | varchar(255) | NO   |     | NULL    |       |
+| designation   | varchar(50)  | YES  |     | NULL    |       |
+| school        | varchar(100) | YES  |     | NULL    |       |
+| email         | varchar(100) | YES  | UNI | NULL    |       |
++---------------+--------------+------+-----+---------+-------+
+
+fee_records Table
++----------------+------------------------+------+-----+---------+----------------+
+| Field          | Type                   | Null | Key | Default | Extra          |
++----------------+------------------------+------+-----+---------+----------------+
+| fee_id         | int                    | NO   | PRI | NULL    | auto_increment |
+| student_reg_no | varchar(20)            | YES  | MUL | NULL    |                |
+| description    | varchar(100)           | NO   |     | NULL    |                |
+| amount         | decimal(10,2)          | NO   |     | NULL    |                |
+| due_date       | date                   | NO   |     | NULL    |                |
+| status         | enum('PAID','PENDING') | YES  |     | PENDING |                |
+| receipt_no     | varchar(50)            | YES  |     | NULL    |                |
++----------------+------------------------+------+-----+---------+----------------+
+
+marks Table
++-----------------+--------------+------+-----+---------+----------------+
+| Field           | Type         | Null | Key | Default | Extra          |
++-----------------+--------------+------+-----+---------+----------------+
+| mark_id         | int          | NO   | PRI | NULL    | auto_increment |
+| student_reg_no  | varchar(20)  | YES  | MUL | NULL    |                |
+| course_code     | varchar(15)  | YES  | MUL | NULL    |                |
+| assessment_type | varchar(50)  | YES  |     | NULL    |                |
+| max_marks       | int          | NO   |     | NULL    |                |
+| scored_marks    | decimal(5,2) | NO   |     | NULL    |                |
++-----------------+--------------+------+-----+---------+----------------+
+
+parents Table
++----------------------+--------------+------+-----+---------+-------+
+| Field                | Type         | Null | Key | Default | Extra |
++----------------------+--------------+------+-----+---------+-------+
+| student_reg_no       | varchar(20)  | NO   | PRI | NULL    |       |
+| parent_password_hash | varchar(255) | NO   |     | NULL    |       |
++----------------------+--------------+------+-----+---------+-------+
+
+system_requests Table
++-----------------+--------------------------------------------+------+-----+-------------------+-------------------+
+| Field           | Type                                       | Null | Key | Default           | Extra             |
++-----------------+--------------------------------------------+------+-----+-------------------+-------------------+
+| request_id      | int                                        | NO   | PRI | NULL              | auto_increment    |
+| user_type       | enum('STUDENT','FACULTY','PARENT','STAFF') | NO   |     | NULL              |                   |
+| user_id         | varchar(30)                                | NO   |     | NULL              |                   |
+| request_type    | varchar(50)                                | NO   |     | NULL              |                   |
+| request_details | text                                       | NO   |     | NULL              |                   |
+| status          | enum('PENDING','APPROVED','REJECTED')      | YES  |     | PENDING           |                   |
+| created_at      | timestamp                                  | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++-----------------+--------------------------------------------+------+-----+-------------------+-------------------+
+
+students Table
++------------------+---------------------------------+------+-----+-------------+-------+
+| Field            | Type                            | Null | Key | Default     | Extra |
++------------------+---------------------------------+------+-----+-------------+-------+
+| reg_no           | varchar(20)                     | NO   | PRI | NULL        |       |
+| full_name        | varchar(100)                    | NO   |     | NULL        |       |
+| password_hash    | varchar(255)                    | NO   |     | NULL        |       |
+| contact_no       | varchar(15)                     | YES  |     | NULL        |       |
+| parent_name      | varchar(100)                    | YES  |     | NULL        |       |
+| branch           | varchar(50)                     | YES  |     | NULL        |       |
+| school           | varchar(100)                    | YES  |     | NULL        |       |
+| residency_status | enum('Day Scholar','Hosteller') | YES  |     | Day Scholar |       |
+| cgpa             | decimal(3,2)                    | YES  |     | 0.00        |       |
+| credits_earned   | int                             | YES  |     | 0           |       |
++------------------+---------------------------------+------+-----+-------------+-------+
+```
+
+---
+
+
 ## 🖼️ Application Dashboards
 
 ### 1. Main Dashboard & Entry
