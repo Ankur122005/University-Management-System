@@ -55,7 +55,7 @@ The System uses the Following **Database Schema** :
                                     | students          |
                                     | system_requests   |
                                     +-------------------+
- Admin_user                                   
+ Admin_user Table                                  
 +---------------+--------------+------+-----+---------+-------+
 | Field         | Type         | Null | Key | Default | Extra |
 +---------------+--------------+------+-----+---------+-------+
